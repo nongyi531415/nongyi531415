@@ -1,3 +1,2 @@
 ### Hi, I'm building small AI tools
-
-Currently shipping **[PhotoLoop](https://photoloopai.com)** — turn one photo into a short video, free, no sign-up, no watermark.
+Currently shipping **[AwakePix](https://awakepix.com/)** (formerly PhotoLoop) — AI videos from photos and images from text. Try free daily generation and preview without signing up; register to download. Advanced models use paid credits.
